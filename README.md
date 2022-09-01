@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+[![dylang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcabello&show_icons=true&theme=dark)](https://github.com/lcabello)
+
+I enjoy working on open source, but the work I've been doing for the last five years at Medallia is not yet open source.
+
+Developer who is a passionate of efficient, maintainble and testable code. Javascript lover :smiling_face_with_three_hearts: .
+
+
 <!--
 **lcabello/lcabello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
